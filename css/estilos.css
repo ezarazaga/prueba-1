@@ -103,6 +103,7 @@ nav li a:hover{
 }
 
 .description{
+  border: 1px solid black;
   padding: 50px;
   margin-top: -80px;
 }
@@ -115,6 +116,11 @@ nav li a:hover{
 }
 
 .descriptions{
+  padding:10%;
+  display: flex;
+}
+
+.face{
   padding:10%;
   display: flex;
 }
